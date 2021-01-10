@@ -10,7 +10,7 @@ Office hours: TBA
 
 ## Course description
 
-Math 387 is a successor to Math 187/189 and Math 287. We will continue our study of topics in discrete math using a proof-based approach. Specifically we will study methods of counting, graph theory, and counting using generating functions.
+Math 387 is a successor to Math 187/189 and Math 287. We will continue our study of topics in discrete math using a proof-based approach. The material we cover will include methods of counting, graph theory, and counting using generating functions. At the same tmie we will strive to improve on our investigative powers, our proof-writing ability, and our appreciation for mathematical methods and beauty.
 
 ### Anticipated learning outcomes
 
@@ -35,17 +35,17 @@ The course will be delivered through synchronous remote class sessions. The majo
 
 ## Grading
 
-### In-class discovery 10%
+### In-class participation 10%
 
-You are expected to attend remote class sessions, and to be prepared to work on current material. The textbook uses an inquiry learning format, which means most learning happens while working on problems. The text does provide some  guidance, and I will lead some small discussions, but most of the time you will be working, discussing material with your classmates, and with me.
+You are expected to attend remote class sessions, and to be prepared to work on current material. The textbook uses an guided discovery format, which means most learning happens by solving problems. That means that we will spend most of our time discussing material and solving problems together with classmates and myself.
 
 ### Classwork portfolio 10%
 
-The work you do in class will slowly accumulate and become a portfolio. I will check it periodically to make sure you have at least attempted every problem requested.
+The work you do in class will slowly accumulate and become a portfolio. I will periodically request your portfolio to make sure you have at least attempted every problem requested.
 
 ### Homework 40%
 
-Each week I will assign certain problems from the previous week to be typed and submitted as homework (these may overlap somewhat with the classwork portfolio). Most exercises will be graded for both correcteness and mathematical style. Some will be graded for completeness only. Your work will represent significant collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Each week I will assign selected problems from the previous week to be typed and submitted as homework. Your work will represent significant collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
 ### Assessments 20% x2
 
