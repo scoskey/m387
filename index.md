@@ -43,7 +43,7 @@ You are expected to attend remote class sessions, and to be prepared to work on 
 
 The work you do in class will slowly accumulate and become a portfolio. I will check it periodically to make sure you have at least attempted every problem requested.
 
-### Classwork portfolio 40%
+### Homework 40%
 
 Each week I will assign certain problems from the previous week to be typed and submitted as homework (these may overlap somewhat with the classwork portfolio). Most exercises will be graded for both correcteness and mathematical style. Some will be graded for completeness only. Your work will represent significant collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
