@@ -13,7 +13,9 @@ header-includes: |
 
 ## Week 1
 
-1. TBA
+* Group work for Monday: 1-6
+* Group work for Wednesday: TBA
+* Homework due Tuesday 1/19 at 12pm: TBA
 
 
 <script type='text/x-mathjax-config'>
