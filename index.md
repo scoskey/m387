@@ -30,21 +30,21 @@ Math 387 is a successor to Math 187/189 and Math 287. We will continue our study
 
 ### Course format
 
-The course will be delivered through synchronous remote class sessions. The majority of each session will be spent working as a class or in small groups.
+The course will be delivered through synchronous remote class sessions. The majority of each session will be spent working together in small groups and participating in class discussions.
 
 ## Grading
 
 ### In-class participation 10%
 
-You are expected to attend remote class sessions, and to be prepared to work on current material. The textbook uses an guided discovery format, which means most learning happens by solving problems. That means that we will spend most of our time discussing material and solving problems together with classmates and myself.
+You are expected to attend remote class sessions, and to be prepared to work on current material. The textbook uses a guided discovery format, which means most learning happens through problem solving. You will receive credit for each class day that you attend and work successfully with others and myself.
 
 ### Classwork portfolio 10%
 
-The work you do in class will slowly accumulate and become a portfolio. I will periodically request your portfolio to make sure you have at least attempted every problem requested.
+The work you do in class will slowly accumulate and become a portfolio. I will periodically evaluate your portfolio for evidence of activity on every problem requested.
 
 ### Homework 40%
 
-Each week I will assign selected problems from the previous week to be typed and submitted as homework. Your work will represent significant collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Each week I will assign selected problems from the previous week to be typed and submitted as homework. Your work may represent substantial collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
 ### Assessments 20% x2
 
@@ -52,4 +52,4 @@ Take-home exams will be given during the 8th week and the finals week of the cla
 
 ## Disclaimer
 
-This syllabus is subject to change. I may make refinements and updates in the first week of classes. While I don't expect any substantial changes, due to the unpredictable conditions of this semester, please allow for some flexibility. I will give notice before making any changes to the syllabus.
+This syllabus is subject to change. I may make refinements and updates in the first week of classes. While I don't expect any substantial changes, please allow for some flexibility. I will give notice before making any changes to the syllabus.
