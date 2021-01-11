@@ -2,10 +2,10 @@
 
 ## Course information
 
-Meeting times: M,W from 1:30&ndash;2:40pm  
+Meeting times: M,W from 1:30&ndash;2:45pm  
 Textbook: Bogart and Flahive, *Discrete mathematics through guided discovery* (provided)
 Problems: [Homework and classwork schedule](homework)  
-Contact: `scoskey@boisestate.edu`  
+Contact: scoskey@boisestate.edu  
 Office hours: TBA
 
 ## Course description
@@ -15,10 +15,9 @@ Math 387 is a successor to Math 187/189 and Math 287. We will continue our study
 ### Anticipated learning outcomes
 
 * Explore mathematical definitions and evaluate mathematical statements
-* Read and write mathematical proofs at an intermediate level
-* Comfort with mathematical discovery in content area
-* Write rigorous and readable proofs in content area
-* Possess and exhibit knowledge in content area
+* Comfort with mathematical discovery
+* Write rigorous and readable proofs
+* Possess and exhibit knowledge of discrete math topics
 
 ### Rough plan
 
