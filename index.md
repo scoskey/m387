@@ -38,9 +38,9 @@ The course will be delivered through synchronous remote class sessions. The majo
 
 You are expected to attend remote class sessions, and to be prepared to work on current material. The textbook uses a guided discovery format, which means most learning happens through problem solving. You will receive credit for each class day that you attend and work successfully with others and myself.
 
-### Classwork portfolio 10%
+### Classwork notebook 10%
 
-The work you do in class will slowly accumulate and become a portfolio. I will periodically evaluate your portfolio for evidence of activity on every problem requested.
+The work you do in class will slowly accumulate and become a lengthy notebook. I will periodically evaluate your notebook for evidence of activity on every problem requested.
 
 ### Homework 40%
 
