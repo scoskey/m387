@@ -14,8 +14,8 @@ header-includes: |
 ## Week 1
 
 * Reading for Monday: Sections 1.1, 1.2
-* Group work for Monday: 1-14
-* Group work for Wednesday: TBA
+* Group work for Monday: 1-7
+* Group work for Wednesday: 8-14
 * Homework due Tuesday 1/19 at 12pm: TBA
 
 
