@@ -36,19 +36,19 @@ The course will be delivered through synchronous remote class sessions. The majo
 
 ### In-class participation 10%
 
-You are expected to attend remote class sessions, and to be prepared to work on current material. The textbook uses a guided discovery format, which means most learning happens through problem solving. You will receive credit for each class day that you attend and work successfully with others and myself.
+The textbook uses a guided discovery format, which means most learning happens through problem solving and discussions. You are expected to attend remote class sessions, and to be prepared to discuss and work on current material. You will receive credit for each class day that you attend and participate successfully.
 
 ### Classwork notebook 10%
 
-The work you do in class will slowly accumulate and become a lengthy notebook. I will periodically evaluate your notebook for evidence of activity on every problem requested.
+The work you do in class will slowly accumulate and become a lengthy notebook. In cases when we don't finish an assigned problem during the class, I will either delay it, cancel it, or ask you to attempt it at home. I will periodically evaluate your notebook for evidence of activity on every problem requested.
 
 ### Homework 40%
 
-Each week I will assign selected problems from the previous week to be typed and submitted as homework. Your work may represent substantial collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Each week I will assign selected problems to be written up carefully and submitted as formal homework. Many of these problems will be from class the previous week. Your work may represent substantial collaborations with your classmates, but keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
 ### Assessments 20% x2
 
-Take-home exams will be given during the 8th week and the finals week of the class.
+I will give a take-home exam approximately the 8th week and the finals week of the class.
 
 ## Disclaimer
 
