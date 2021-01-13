@@ -11,12 +11,19 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 2
+
+* Holiday on Monday!
+* Reading for Wednesday: Section 1.3
+* Group work for Wednesday: 17-26
+* Homework due Tuesday 1/26: TBA
+
 ## Week 1
 
 * Reading for Monday: Sections 1.1, 1.2
 * Group work for Monday: 1-7
-* Group work for Wednesday: 8-14
-* Homework due Tuesday 1/19 at 12pm: TBA
+* Group work for Wednesday: 8-16
+* Homework due Thursday 1/21 at 12pm: TBA
 
 
 <script type='text/x-mathjax-config'>
