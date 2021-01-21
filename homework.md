@@ -11,12 +11,20 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 3
+
+* Reading for Monday: Section 1.4, 1.5, 1.6
+* Group work for Monday: 32-40
+* Reading for Wednesday: 2.1, 2.2
+* Group work for Wednesday: TBA
+* Homework due Tuesday 2/2: TBA
+
 ## Week 2
 
 * Holiday on Monday!
 * Reading for Wednesday: Section 1.3
-* Group work for Wednesday: 17-26
-* Homework due Tuesday 1/26: TBA
+* Group work for Wednesday: 17-24
+* Homework due Tuesday 1/26: 18(a), 19(a)(b), 22, 29
 
 ## Week 1
 
