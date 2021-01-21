@@ -23,7 +23,7 @@ header-includes: |
 * Reading for Monday: Sections 1.1, 1.2
 * Group work for Monday: 1-7
 * Group work for Wednesday: 8-16
-* Homework due Thursday 1/21 at 12pm: 2, 6, 9, 15
+* Homework due Thursday 1/21 (end of day): 2, 6, 9, 15
 
 
 <script type='text/x-mathjax-config'>
