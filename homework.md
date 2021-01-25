@@ -14,7 +14,7 @@ header-includes: |
 ## Week 3
 
 * Reading for Monday: Section 1.4, 1.5, 1.6
-* Group work for Monday: 32-40
+* Group work for Monday: 31-40 (37 optional)
 * Reading for Wednesday: 2.1, 2.2
 * Group work for Wednesday: TBA
 * Homework due Tuesday 2/2: TBA
