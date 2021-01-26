@@ -6,7 +6,7 @@ Meeting times: M,W from 1:30&ndash;2:45pm
 Textbook: Bogart and Flahive, *Discrete mathematics through guided discovery* (provided)
 Problems: [Homework and classwork schedule](homework)  
 Contact: scoskey@boisestate.edu  
-Office hours: TBA
+Office hours: Tuesday at 1:30 and by appointment (different link, see blackboard)
 
 ## Course description
 
