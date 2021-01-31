@@ -14,7 +14,7 @@ header-includes: |
 ## Week 4
 
 * Reading for Monday: Section 2.2 again, including 2.2.1
-* Group work for Monday: 57-61, 66-67
+* Group work for Monday: 57-61, 62(read), 66-67
 * Reading for Wednesday: Section 2.3
 * Group work for Wednesday: TBA
 * Homework due Tuesday 2/9: TBA
