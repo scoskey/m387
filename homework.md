@@ -18,6 +18,7 @@ header-includes: |
 * Reading for Wednesday: Section 2.3
 * Group work for Wednesday: TBA
 * Homework due Tuesday 2/9: TBA
+* Notice of first portfolio collection date: 2/18
 
 ## Week 3
 
