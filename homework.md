@@ -16,7 +16,7 @@ header-includes: |
 * Reading for Monday: Section 2.2 again, including 2.2.1
 * Group work for Monday: 57-61, 62(read), 66-67
 * Reading for Wednesday: Section 2.3
-* Group work for Wednesday: TBA
+* Group work for Wednesday: 71, 72, 74(a), 75, 77, 79, 87-88
 * Homework due Tuesday 2/9: TBA
 * Notice of first portfolio collection date: 2/18
 
