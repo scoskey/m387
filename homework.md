@@ -11,6 +11,14 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 5
+
+* Reading for Monday: Secton 3.1
+* Group work for Monday: 89-94
+* Reading for Wednesday: Section 3.2
+* Group work for Wednesday: TBA
+* Homework due Thursday 2/18: TBA
+
 ## Week 4
 
 * Reading for Monday: Section 2.2 again, including 2.2.1
