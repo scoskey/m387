@@ -11,6 +11,10 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 6
+
+* First notebook due Thursday 2/18
+
 ## Week 5
 
 * Reading for Monday: Secton 3.1
@@ -26,7 +30,6 @@ header-includes: |
 * Reading for Wednesday: Section 2.3
 * Group work for Wednesday: 71, 72, 74(a), 75, 77, 79, 87-88
 * Homework due Tuesday 2/9: 63, 73, 75, 88
-* Notice of first portfolio collection date: 2/18
 
 ## Week 3
 
