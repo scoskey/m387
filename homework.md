@@ -11,17 +11,14 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
-## Week 6
-
-* First notebook due Thursday 2/18
-
 ## Week 5
 
 * Reading for Monday: Secton 3.1
 * Group work for Monday: 89-94
 * Reading for Wednesday: Section 3.2
-* Group work for Wednesday: TBA
+* Group work for Wednesday: 95-TBA
 * Homework due Thursday 2/18: TBA
+* Notebook 1 due Thursday 2/18
 
 ## Week 4
 
