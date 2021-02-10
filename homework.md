@@ -16,7 +16,7 @@ header-includes: |
 * Reading for Monday: Secton 3.1
 * Group work for Monday: 89-94
 * Reading for Wednesday: Section 3.2
-* Group work for Wednesday: 95-TBA
+* Group work for Wednesday: 95-99, 102, 104
 * Homework due Thursday 2/18: TBA
 * Notebook 1 due Thursday 2/18
 
