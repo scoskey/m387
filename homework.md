@@ -11,6 +11,11 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 6
+
+* Reading for Wednesday: Section 3.3
+* Group work for Wednesday: TBA
+
 ## Week 5
 
 * Reading for Monday: Secton 3.1
