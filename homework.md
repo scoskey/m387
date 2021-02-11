@@ -22,7 +22,7 @@ header-includes: |
 * Group work for Monday: 89-94
 * Reading for Wednesday: Section 3.2
 * Group work for Wednesday: 96-99, 102, 104
-* Homework due Thursday 2/18: TBA
+* Homework due Thursday 2/18: 76, 90, 96, 102
 * Notebook 1 due Thursday 2/18
 
 ## Week 4
