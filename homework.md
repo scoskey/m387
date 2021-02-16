@@ -11,10 +11,18 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 7
+
+* Reading for Monday: Section 3.3 again
+* Group work for Monday: TBA
+* Reading for Wednesday: Section 3.4
+* Group work for Wednesday: TBA
+
 ## Week 6
 
 * Reading for Wednesday: Section 3.3
-* Group work for Wednesday: TBA
+* Group work for Wednesday: Catch up and/or bonus problems!
+* No new homework due next week
 
 ## Week 5
 
