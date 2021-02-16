@@ -20,7 +20,8 @@ header-includes: |
 
 ## Week 6
 
-* Reading for Wednesday: Section 3.3
+* Holiday on Monday!
+* Reading for Wednesday: Review, preview section 3.3
 * Group work for Wednesday: Catch up and/or bonus problems!
 * No new homework due next week
 
@@ -31,14 +32,14 @@ header-includes: |
 * Reading for Wednesday: Section 3.2
 * Group work for Wednesday: 96-99, 102, 104
 * Homework due Thursday 2/18: 76, 90, 96, 102
-* Notebook 1 due Thursday 2/18
+* Notebook 1 due Thursday 2/18: Problems 1-24, 31-36, 38-40, 50-54, 57-61, 66-67, 71-72, 74(a), 75, 77, 79, 87-94, 96-99, 102
 
 ## Week 4
 
 * Reading for Monday: Section 2.2 again, including 2.2.1
 * Group work for Monday: 57-61, 62(read), 66-67
 * Reading for Wednesday: Section 2.3
-* Group work for Wednesday: 71, 72, 74(a), 75, 77, 79, 87-88
+* Group work for Wednesday: 71-72, 74(a), 75, 77, 79, 87-88
 * Homework due Tuesday 2/9: 63, 73, 75, 88
 
 ## Week 3
