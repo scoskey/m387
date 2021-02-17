@@ -23,9 +23,9 @@ Math 387 is a successor to Math 187/189 and Math 287. We will continue our study
 
 * Weeks 1-3: Introductory and review material
 * Weeks 4-7: Counting and equivalence relations
-* Week 8: Midterm exam
-* Weeks 9-11: Graph theory
-* Weeks 12-14: Generating functions and distributions
+* Weeks 8-9: Review and midterm exam
+* Weeks 10-12: Graph theory
+* Weeks 13-14: Generating functions and distributions
 * Weeks 15-16: Review and final exam
 
 ### Course format
