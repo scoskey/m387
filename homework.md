@@ -14,7 +14,7 @@ header-includes: |
 ## Week 7
 
 * Reading for Monday: Section 3.3 again
-* Group work for Monday: TBA
+* Group work for Monday: 105-110, 114, 116
 * Reading for Wednesday: Section 3.4
 * Group work for Wednesday: TBA
 * Homework due Tuesday 3/2: TBA
