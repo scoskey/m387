@@ -15,8 +15,8 @@ header-includes: |
 
 * Reading for Monday: Section 3.3 again
 * Group work for Monday: 105-110, 114, 116
-* Reading for Wednesday: Section 3.4
-* Group work for Wednesday: TBA
+* Reading for Wednesday: Section 3.3.1, 3.3.2
+* Group work for Wednesday: 118, 120, 122-123, 126
 * Homework due Tuesday 3/2: TBA
 
 ## Week 6
