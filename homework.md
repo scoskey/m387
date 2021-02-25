@@ -11,13 +11,22 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 8
+
+* Reading for Monday: Section 4.1
+* Group work for Monday: TBA
+* Reading for Wednesday: TBA
+* Group work for Wednesday: TBA
+* Homework due Tuesday 3/9: TBA
+* Reminder: Take-home midterm exam week 9!
+
 ## Week 7
 
 * Reading for Monday: Section 3.3 again
 * Group work for Monday: 105-110, 114, 116
 * Reading for Wednesday: Section 3.3.1, 3.3.2
 * Group work for Wednesday: 118, 120, 122-123, 126
-* Homework due Tuesday 3/2: TBA
+* Homework due Tuesday 3/2: 107, 112, 123, 126
 
 ## Week 6
 
