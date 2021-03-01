@@ -14,8 +14,8 @@ header-includes: |
 ## Week 8
 
 * Reading for Monday: Section 4.1
-* Group work for Monday: TBA
-* Reading for Wednesday: TBA
+* Group work for Monday: 141-146, 149-150
+* Reading for Wednesday: 4.2
 * Group work for Wednesday: TBA
 * Homework due Tuesday 3/9: TBA
 * Reminder: Take-home midterm exam week 9!
