@@ -11,14 +11,19 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 9
+
+* Monday: Catch-up and homework questions
+* Tuesday: Homework due, exam posted
+* Sunday 3/13: Exam due
+
 ## Week 8
 
 * Reading for Monday: Section 4.1
 * Group work for Monday: 141-146, 149-150
 * Reading for Wednesday: 4.2
-* Group work for Wednesday: TBA
+* Group work for Wednesday: 151-156, 158-159
 * Homework due Tuesday 3/9: TBA
-* Reminder: Take-home midterm exam week 9!
 
 ## Week 7
 
