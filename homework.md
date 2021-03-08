@@ -15,6 +15,7 @@ header-includes: |
 
 * Monday: Catch-up and homework questions
 * Tuesday: Homework due, exam posted
+* Wednesday: No class
 * Sunday 3/13: Exam due
 
 ## Week 8
