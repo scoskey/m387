@@ -14,9 +14,9 @@ header-includes: |
 ## Week 9
 
 * Monday: Catch-up and homework questions
-* Tuesday: Exam posted
+* Tuesday: Exam posted, homework 8 due
 * Wednesday: No class
-* Sunday 3/13: Exam due
+* Sunday 3/14: Exam due, pi day
 
 ## Week 8
 
