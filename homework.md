@@ -24,7 +24,7 @@ header-includes: |
 * Group work for Monday: 141-146, 149-150
 * Reading for Wednesday: 4.2
 * Group work for Wednesday: 151-156, 158-159
-* Homework due Tuesday 3/9: 141, 146, 52, 155
+* Homework due Tuesday 3/9: 141, 146, 152, 155
 
 ## Week 7
 
