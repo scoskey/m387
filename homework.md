@@ -14,9 +14,9 @@ header-includes: |
 ## Week 10
 
 * Reading for Monday: Start section 4.3
-* Group work for Monday: 162-170
+* Group work for Monday: 164-170
 * Reading for Tuesday: Finish section 4.3
-* Group work for Wednesday: 171-179
+* Group work for Wednesday: 171-178
 * Homework due Tuesday 3/23: TBA
 
 ## Week 9
