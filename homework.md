@@ -11,6 +11,14 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 10
+
+* Reading for Monday: Start section 4.3
+* Group work for Monday: 162-170
+* Reading for Tuesday: Finish section 4.3
+* Group work for Wednesday: 171-179
+* Homework due Tuesday 3/23: TBA
+
 ## Week 9
 
 * Monday: Catch-up and homework questions
