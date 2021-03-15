@@ -16,7 +16,7 @@ header-includes: |
 * Reading for Monday: Start section 4.3
 * Group work for Monday: 164-170
 * Reading for Tuesday: Finish section 4.3
-* Group work for Wednesday: 171-178
+* Group work for Wednesday: 172-178
 * Homework due Tuesday 3/23: TBA
 
 ## Week 9
