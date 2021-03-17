@@ -11,6 +11,12 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 11
+
+* Reading for Monday: Section 4.5
+* Group work for Monday: 190-194
+* ...
+
 ## Week 10
 
 * Reading for Monday: Start section 4.3
