@@ -23,7 +23,11 @@ header-includes: |
 * Group work for Monday: 164-170
 * Reading for Tuesday: Finish section 4.3
 * Group work for Wednesday: 172-178
-* Homework due Tuesday 3/23: TBA
+* Homework due Tuesday 3/23:  
+  * Problem A: Explain why the last element $b\_{n-1}$ of a Prufer code sequence B is always $n$.
+  * Problem B: Find the tree for the following prufer code: 1,2,1,3,1,4,1,5,1,6
+  * Problem C: Write all sixteen possible Prufer codes with $n=4$ (so the codes have length 2) and draw the corresponding trees.
+  * Problem D: What is the relationship between the degree of a vertex, and the number of times the vertex occurs in the Prufer code? Give a complete explanation (proof) your answer is correct.
 
 ## Week 9
 
