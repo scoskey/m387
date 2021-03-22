@@ -15,7 +15,9 @@ header-includes: |
 
 * Reading for Monday: Section 4.5
 * Group work for Monday: 190-194
-* ...
+* Reading for Wednesday: Finish section 4.5.1, Read 4.6
+* Group work for Wednesday: ...
+* Homework due Tuesday 3/30: ...
 
 ## Week 10
 
