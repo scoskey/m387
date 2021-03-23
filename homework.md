@@ -14,9 +14,9 @@ header-includes: |
 ## Week 11
 
 * Reading for Monday: Section 4.5
-* Group work for Monday: 190-194
+* Group work for Monday: 191, 193-194
 * Reading for Wednesday: Finish section 4.5.1, Read 4.6
-* Group work for Wednesday: ...
+* Group work for Wednesday: 196-198, 200-202
 * Homework due Tuesday 3/30: ...
 
 ## Week 10
