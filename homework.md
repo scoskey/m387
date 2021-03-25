@@ -11,13 +11,26 @@ header-includes: |
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
 
+## Week 12
+
+* Reading for Monday: Start The Coloring of Graphs (via blackboard)
+* Group work for Monday: ...
+* Reading for Wednesday: Finish The Coloring of Graphs
+* Group work for Wednesday: ...
+* Homework due Tuesday 4/6
+* Notice: Second Notebook collection on 4/8
+
 ## Week 11
 
 * Reading for Monday: Section 4.5
 * Group work for Monday: 191, 193-194
 * Reading for Wednesday: Finish section 4.5.1, Read 4.6
 * Group work for Wednesday: 196-198, 200-202
-* Homework due Tuesday 3/30: ...
+* Homework due Tuesday 3/30:  
+  * Problem 194: Describe Kruskal's (or Prim's) algorithm carefully, and briefly explain why it "works"
+  * Problem 198
+  * Problem E: Draw a connected weighted graph (not a tree) with at least 7 vertices and at least 14 edges. Run Kruskal's algorithm for the graph to find the minimum spanning tree.
+  * Problem F: For the same graph as in Problem E, choose a special vertex $v$ and run Dijkstra's algorithm to find the tree of shortest paths from $v$. Compare with the tree from part $E$.
 
 ## Week 10
 
