@@ -14,9 +14,9 @@ header-includes: |
 ## Week 12
 
 * Reading for Monday: Start The Coloring of Graphs (via blackboard)
-* Group work for Monday: 4-7, 10
+* Homework for Monday: Try exercises 1-3, we will discuss them Wednesday
 * Reading for Wednesday: Finish The Coloring of Graphs
-* Group work for Wednesday: ...
+* Group work for Wednesday: 4-7, 10
 * Homework due Tuesday 4/6
 * Notice: Second Notebook collection on 4/8
 
