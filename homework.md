@@ -26,7 +26,7 @@ header-includes: |
 * Group work for Monday: 191, 193-194
 * Reading for Wednesday: Finish section 4.5.1, Read 4.6
 * Group work for Wednesday: 196-198, 200-202
-* Homework due Tuesday 3/30:  
+* Homework due Thursday 4/1:  
   * Problem 194: Describe Kruskal's (or Prim's) algorithm carefully, and briefly explain why it "works"
   * Problem 198
   * Problem E: Draw a connected weighted graph (not a tree) with at least 7 vertices and at least 14 edges. Run Kruskal's algorithm for the graph to find the minimum spanning tree.
