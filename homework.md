@@ -10,15 +10,26 @@ header-includes: |
 [Submit with gradescope](https://www.gradescope.com/courses/218675)
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
+  
+## Week 13
+
+* Reading for Monday: Section 5.1, Generating functions
+* Group work for Monday: 207-213
+* Reading for Wednesday: ...
+* Group work for Wednesday: ...
+* Homework due Tuesday 4/20:  
+  * Problem G: What is the chromatic polynomial of the complete graph on $k$ vertices? Explain your answer.
+  * Problem H: Use the reduction algorithm to calculate the chromatic polynomial of the pentagon graph (the edges are (1,2),(2,3),(3,4),(4,5),(5,1)).
+  * Problem I: The degree of the chromatic polynomial is equal to the number of vertices of the graph. Use induction and the deletion/contraction recurrence to prove this is always the case.
+  * Problem J: The constant term of the chromatic polynomial is always equal to $0$. Explain why this is always the case. [Hint: how many ways are there to color a graph using a palette of $0$ colors? What does this say about $p(0)$?]
+* Notebook 2 due Thursday 4/8: Problems 105-110, 114, 116, 118, 120, 122-123, 126, 141-146, 149-156, 158-159, 164-170, 172-178, 191, 193-194, 196-198, 200-202
 
 ## Week 12
 
 * Reading for Monday: Start The Coloring of Graphs (via blackboard)
-* Homework for Monday: Try exercises 1-3, we will discuss them Wednesday
 * Reading for Wednesday: Finish The Coloring of Graphs
-* Group work for Wednesday: 4-7, 10
-* Homework due Tuesday 4/6
-* Notice: Second Notebook collection on 4/8
+* Group work for Wednesday: CoG exercise 10
+* Homework due Tuesday 4/6: 
 
 ## Week 11
 
