@@ -16,7 +16,7 @@ header-includes: |
 * Reading for Monday: Section 5.1
 * Group work for Monday: 207-208, 211-213
 * Reading for Wednesday: Start Section 5.2
-* Group work for Wednesday: 222-...
+* Group work for Wednesday: 222-228
 * Homework due Tuesday 4/20: ...
 
 ## Week 12
