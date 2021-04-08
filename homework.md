@@ -10,7 +10,15 @@ header-includes: |
 [Submit with gradescope](https://www.gradescope.com/courses/218675)
 
 [Draft Overleaf template](https://www.overleaf.com/read/wqzxckcdzwzr)
-  
+
+## Week 14
+
+* Reading for Monday: Finish section 5.2
+* Group work for Monday: 230-234
+* Reading for Wednesday: Secton 5.3
+* Group work for Wednesday: ...
+* Homework due Tuesday 4/27: ...
+
 ## Week 13
 
 * Reading for Monday: Section 5.1
