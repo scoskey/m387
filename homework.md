@@ -17,7 +17,13 @@ header-includes: |
 * Group work for Monday: 207-208, 211-213
 * Reading for Wednesday: Start Section 5.2
 * Group work for Wednesday: 222-228
-* Homework due Tuesday 4/20: ...
+* Homework due Tuesday 4/20:  
+  * 213
+  * Problem K: Suppose you can take between 0 and 3 apples, between 2 and 5 pairs, and between 4 and 7 bananas. Suppose you want to take 10 fruits in total. How many ways are there to do this? Set up the problem using generating polynomials, you may use a computer to do the algebra.
+  * 226
+  * Problem L: Recall the power series for $(1-x)^{-1}$ is $\sum x^k$.  
+    (a) Since $(1-x)^{-2}$ is $(1-x)^{-1}(1-x)^{-1}$, find its power series by evaluating $(\sum x^k)(\sum x^k)$.  
+    (b) Since $(1-x)^{-2}$ is the derivative of $(1-x)^{-1}$, find its power series by evaluating the derivative of $\sum x^k$.
 
 ## Week 12
 
