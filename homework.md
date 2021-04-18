@@ -16,7 +16,7 @@ header-includes: |
 * Reading for Monday: Finish section 5.2
 * Group work for Monday: 230-234
 * Reading for Wednesday: Secton 5.3
-* Group work for Wednesday: ...
+* Group work for Wednesday: 237-240
 * Homework due Tuesday 4/27: ...
 
 ## Week 13
