@@ -17,7 +17,11 @@ header-includes: |
 * Group work for Monday: 230-234
 * Reading for Wednesday: Secton 5.3
 * Group work for Wednesday: 237-240
-* Homework due Tuesday 4/27: ...
+* Homework due Tuesday 4/27:  
+  * Problem 230
+  * Problem 232
+  * Problem 238
+  * Problem M: Beginning with the result from 238, use a partial fraction decomposition, together with our power series formulas, to find an explicit formula for $a\_i$.
 
 ## Week 13
 
